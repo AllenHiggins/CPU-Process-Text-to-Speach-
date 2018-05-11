@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\C #\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe
+C:\Users\Alan\Desktop\C #\textToSpeech\textToSpeech\bin\Debug\textToSpeech.pdb
+C:\Users\Alan\Desktop\C #\textToSpeech\textToSpeech\obj\x86\Debug\textToSpeech.exe
+C:\Users\Alan\Desktop\C #\textToSpeech\textToSpeech\obj\x86\Debug\textToSpeech.pdb
+C:\Users\Alan\Desktop\C #\textToSpeech\textToSpeech\obj\x86\Debug\textToSpeech.csprojResolveAssemblyReference.cache
